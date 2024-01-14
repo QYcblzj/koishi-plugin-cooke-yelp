@@ -1,0 +1,25 @@
+{
+  "name": "koishi-plugin-cooke-yelp",
+  "description": "这是一个使用yelp api的食谱插件，教群u*做*一份富有*爱*心的料理吧！（Yelp版）",
+  "version": "0.24.114",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "author": "qycblzj <qianyue_64_32@outlook.com>",
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QYcblzj/koishi-plugin-cooke-yelp.git"
+  },
+  "peerDependencies": {
+    "koishi": "^4.16.4"
+  }
+}
